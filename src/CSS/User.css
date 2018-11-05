@@ -1,0 +1,13 @@
+.user-form-wrapper {
+  height: 100%;
+  overflow: auto;
+}
+
+.fNameL, .sNameL, .fLastL, .sLastL, .accL, .passL, .mailL {
+  float: left;
+  width: 20%;
+}
+.fNameI, .sNameI, .fLastI, .sLastI, .accI, .passI, .mailI {
+  float: left;
+  width: 80%;
+}

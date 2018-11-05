@@ -1,0 +1,17 @@
+.tables-form-wrapper {
+  height: 100%;
+  overflow: auto;
+}
+
+.tablesL, .seatsL, .accountsL {
+  float: left;
+  width: 20%;
+} 
+.tablesI, .seatsI, .accountsI {
+  float: left;
+  width: 80%;
+}
+.rLibre, .rOcupado {
+  float: left;
+  width: 50%;
+}
